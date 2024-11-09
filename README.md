@@ -17,6 +17,8 @@ I'm a Computer Engineering student focused on **software development** and **sys
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![ADO.NET](https://img.shields.io/badge/ADO.NET-007ACC?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Windows Forms](https://img.shields.io/badge/Windows%20Forms-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+![Vivado](https://img.shields.io/badge/Vivado-007ACC?style=for-the-badge&logo=xilinx&logoColor=white)
 
 <!--- #### 📊 GitHub Stats
 <!--- ![Danial's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danial-Changez&show_icons=true&theme=radical)
