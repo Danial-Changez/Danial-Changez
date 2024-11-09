@@ -18,5 +18,5 @@ I'm a Computer Engineering student focused on **software development** and **sys
 ![ADO.NET](https://img.shields.io/badge/ADO.NET-007ACC?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Windows Forms](https://img.shields.io/badge/Windows%20Forms-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-#### 📊 GitHub Stats
-![Danial's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danial-Changez&show_icons=true&theme=radical)
+<!--- #### 📊 GitHub Stats
+<!--- ![Danial's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danial-Changez&show_icons=true&theme=radical)
