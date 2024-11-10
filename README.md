@@ -1,6 +1,6 @@
 ### Hi there! 👋 I'm Danial Changez
 
-I'm a Computer Engineering student focused on **software development** and **system design**. My work spans fields like **CPU architecture**, **Java applications**, and **C# databases**. I enjoy tackling complex problems and building efficient, scalable solutions. Let’s connect and create innovative tech together!
+I'm a Computer Engineering student focused on **software development** and **system design**. My work spans fields like **CPU architecture**, **OOP Applications** and **Databases**. Currently working on integrating **Data Structures and Algorithms** into my work to further improve my skills.
 
 #### Tech Stack
 [![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)](https://www.java.com) 
