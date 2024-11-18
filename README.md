@@ -11,6 +11,8 @@ I'm a Computer Engineering student focused on **software development** and **sys
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![VHDL](https://img.shields.io/badge/VHDL-5D1F1F?style=flat&logo=VHDL&logoColor=white)](https://en.wikipedia.org/wiki/VHDL)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.linux.org/)
 
 #### ⚙️ Development Tools & Frameworks
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
@@ -20,6 +22,7 @@ I'm a Computer Engineering student focused on **software development** and **sys
 [![Windows Forms](https://img.shields.io/badge/Windows%20Forms-8451C6?style=flat&logo=.net&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/desktop/winforms/)
 [![NetBeans](https://img.shields.io/badge/NetBeans-008BB8?style=flat&logo=apache-netbeans&logoColor=white)](https://netbeans.apache.org/)
 [![Vivado](https://img.shields.io/badge/Vivado-1F3C73?style=flat&logo=Xilinx&logoColor=white)](https://www.xilinx.com/products/design-tools/ipl-vivado.html)
+[![Command Line](https://img.shields.io/badge/Command%20Line-000000?style=flat&logo=gnubash&logoColor=white)](https://en.wikipedia.org/wiki/Command-line_interface)
 
 <!--- #### 📊 GitHub Stats
 <!--- ![Danial's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danial-Changez&show_icons=true&theme=radical)
