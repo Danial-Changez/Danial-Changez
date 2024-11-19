@@ -23,6 +23,7 @@ I'm a Computer Engineering student focused on **software development** and **sys
 [![NetBeans](https://img.shields.io/badge/NetBeans-008BB8?style=flat&logo=apache-netbeans&logoColor=white)](https://netbeans.apache.org/)
 [![Vivado](https://img.shields.io/badge/Vivado-1F3C73?style=flat&logo=Xilinx&logoColor=white)](https://www.xilinx.com/products/design-tools/ipl-vivado.html)
 [![Command Line](https://img.shields.io/badge/Command%20Line-000000?style=flat&logo=gnubash&logoColor=white)](https://en.wikipedia.org/wiki/Command-line_interface)
+[![Makefile](https://img.shields.io/badge/Makefile-065535?style=flat&logo=gnu&logoColor=white)](https://www.gnu.org/software/make/)
 
 <!--- #### 📊 GitHub Stats
 <!--- ![Danial's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danial-Changez&show_icons=true&theme=radical)
